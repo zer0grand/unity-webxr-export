@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/WebXR/Samples/Desert/Scenes/Desert.unity
     guid: 85380d4847db7b74a850284461349c36
+  - enabled: 1
+    path: Assets/WebXR/Samples/Desert/Scenes/Desert 1.unity
+    guid: 9593a82fbf8042e41adf9b44b501edf4
   m_configObjects: {}
